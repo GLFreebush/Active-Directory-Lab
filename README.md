@@ -1,5 +1,7 @@
 # Active-Directory-Home-Lab
 
+Hands-on Active Directory home lab documenting user/group management, GPO hardening, and screenshots.
+
 ## Lab setup
 - Host machine: Mac (Apple Silicon)
 - Hypervisor: (Parallels / VMware Fusion)
@@ -10,6 +12,7 @@
 - Notes:
 
 ## What you configured
+
 ### Active Directory
 - Domain name:
 - OU structure:
@@ -21,9 +24,9 @@
 - Settings configured:
 
 ## What you learned
-- 
-- 
-- 
+-
+-
+-
 
 ## Screenshots
 Add screenshots in the `Screenshots/` folder and reference them here:
